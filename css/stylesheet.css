@@ -1,9 +1,15 @@
 * {
-    font-family: "Raleway";
 }
 
 body {
     padding-top: 50px;
+}
+
+a,
+a:hover,
+a:active,
+a:visited {
+    color: black;
 }
 
 #main {
