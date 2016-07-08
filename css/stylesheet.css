@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+* {
+    font-family: "Raleway";
+
+    color: white;
+}
+
+body {
+    background: #ef9ca6;
+}
+
+#main {
+    position: absolute;
+
+    margin-top: 200px;
+}
+
+#github {
+    width: 64px;
+    height: 64px;
+    margin: 20px;
+}
+
+#linkedin {
+    width: 70px;
+    height: 64px;
+    margin: 20px;
+}
