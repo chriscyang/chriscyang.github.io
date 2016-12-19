@@ -6,30 +6,19 @@ body {
     padding-top: 50px;
 }
 
-a,
-a:visited
-a:hover,
-a:active {
-    color: black;
-}
-
-#main {
-    position: absolute;
-}
-
-#logo {
+img {
     width: 50%;
     height: 50%;
 }
 
-#github {
-    width: 64px;
-    height: 64px;
-    margin: 20px;
+a {
+    color: black;
 }
 
-#linkedin {
-    width: 70px;
-    height: 64px;
-    margin: 20px;
+a,
+a:visited,
+a:focus,
+a:hover,
+a:active {
+    text-decoration: none;
 }
