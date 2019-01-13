@@ -1,18 +1,18 @@
 * {
-    font-family: "Raleway", Sans-Serif;
+  font-family: "Raleway", Sans-Serif;
 }
 
 body {
-    padding-top: 50px;
+  padding-top: 50px;
 }
 
 img {
-    width: 50%;
-    height: 50%;
+  width: 50%;
+  height: 50%;
 }
 
 a {
-    color: black;
+  color: black;
 }
 
 a,
@@ -20,5 +20,5 @@ a:visited,
 a:focus,
 a:hover,
 a:active {
-    text-decoration: none;
+  text-decoration: none;
 }
